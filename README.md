@@ -30,6 +30,9 @@ Note: only run one py file at a time.
 
 './run_this/run_methods_and_outputs/outputs' contains the outputs of runnable files.
 
+#### Python Interpreter Versions
+Python 3.9.6
 
+numpy 1.21.4
 
 @author: Mason Lynn
