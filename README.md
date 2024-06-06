@@ -1,8 +1,12 @@
-### Edge Computing and Caching Optimization based on PPO for Task Offloading in RSU-assisted IoV
+## Edge Computing and Caching Optimization based on PPO for Task Offloading in RSU-assisted IoV
 
 This is the runnable Python project for the paper 'Edge Computing and Caching Optimization based on PPO for Task Offloading in RSU-assisted IoV'.
 
-#### Guidance
+### Paper Link
+
+[https://ieeexplore.ieee.org/document/10539436](https://ieeexplore.ieee.org/document/10539436)
+
+### Guidance
 
 To run the project, run the .py files in './run_this'.
 
@@ -16,9 +20,9 @@ To run the project, run the .py files in './run_this'.
 
 'run_different_algo2.py' generates the comparison between our scheme and the optim caching scheme.
 
-Note: only run one py file at a time.
+**Note:** Only run one py file at a time.
 
-#### Components
+### Components
 
 './envs' contains environment settings, parameter configurations and the data struct of the project.
 
@@ -30,9 +34,12 @@ Note: only run one py file at a time.
 
 './run_this/run_methods_and_outputs/outputs' contains the outputs of runnable files.
 
-#### Python Interpreter Versions
-Python 3.9.6
+### Python Interpreter Versions
 
-numpy 1.21.4
+**numpy 1.21.4**
+
+**Note:** Important, inconsistent numpy versions may lead to runtime errors.
+
+Python 3.9.6
 
 @author: Mason Lynn
